@@ -8,6 +8,9 @@ namespace git_practice
         {
             Console.WriteLine("Hello World Goodbye Freedom!");
 
+            string welcome = "welcome to the world";
+
+            Console.Writeline(welcome);
 
 
         }
