@@ -10,7 +10,7 @@ namespace git_practice
 
             string welcome = "welcome to the world";
 
-            Console.Writeline(welcome);
+            Console.Writeline("welcome to the write line");
 
 
         }
